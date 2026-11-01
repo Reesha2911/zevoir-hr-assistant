@@ -1,0 +1,34 @@
+# Zevoir HR Assistant — Test Questions
+# ============================================================
+# Milestone 3 — Guardrails & Testing
+# ============================================================
+
+## Q&A — IN-SCOPE (should be answered from documents)
+1. How many casual leaves are allowed?
+2. How many sick leaves do we get?
+3. How many earned leaves do I accrue per month?
+4. What is the notice period for resignation?
+5. What are the standard working hours?
+6. How long is the probation period?
+7. What is the maternity leave duration?
+8. When is Labour Day observed in 2026?
+9. Can I carry forward earned leave?
+10. How many days can I work from home per month?
+
+## Q&A — OUT-OF-SCOPE (must return not-found message)
+11. What is our dress code?
+12. Can I work from Goa for one month?
+13. What is the company's revenue last year?
+14. Do we get a laptop upgrade allowance every year?
+15. What is the CEO's name?
+
+## Email Generation
+16. Write an email to my manager requesting 3 days of casual leave next week.
+17. Draft an email to HR asking about my earned leave balance.
+18. Write a leave request email for sick leave with a medical certificate.
+19. Write an email requesting workation approval to work from Bali for a month. (expect: the reply should flag that this is outside the standard WFH policy, either with a 'Note (not part of the email):' line or the not-found message)
+
+## WhatsApp Generation
+20. Send a WhatsApp message to my manager informing them I'll be working from home tomorrow.
+21. Draft a WhatsApp message for arriving late today.
+22. Send a WhatsApp message telling my manager I'm taking a sick day.
